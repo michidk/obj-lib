@@ -1,2 +1,3 @@
-# obj-lib
-Collection of different open source Wavefront .obj mesh files.
+# Wavefront `.obj` Primitive Library
+
+A collection of different open source Wavefront mesh files.
